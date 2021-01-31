@@ -15,5 +15,4 @@ This program contains an abstract class and two interfaces from which further cl
 The Airfield class contains an ArrayList of Jets which is populated using a text file jet database.
 
 ### Lessons Learned
-I had fun writing and getting [JetsApplication]'s removeJet(), [Airfield]'s jetMenu(), and [AirField]'s removeJet() working together. 
-It was cool to see them supporting each other!
+I had fun writing and getting [JetsApplication]'s removeJet(), [Airfield]'s jetMenu(), and [AirField]'s removeJet() working together.  It was cool to see them supporting each other!
