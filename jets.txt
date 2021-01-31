@@ -1,0 +1,5 @@
+Airbus Cargo, A300-600, 557.37, 4603, 75000000
+Boeing Passenger, 737, 583, 3500, 82000000
+Airbus Passenger, A321neo, 544, 3697, 129500000
+JetImpl, Y-wing, 139631, 5365, 10500000
+Airbus Passenger, A380, 737, 9445, 445600000
